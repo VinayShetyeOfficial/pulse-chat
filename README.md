@@ -1,5 +1,5 @@
 # PulseChat !!      
-            
+             
 ![image](https://github.com/VinayShetyeOfficial/PulseChat/assets/100470361/afbbf8a6-fdb6-42f3-b4e5-1f941298ceae)    
        
 ## Description       
