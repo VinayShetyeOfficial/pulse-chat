@@ -10,7 +10,7 @@ PulseChat is a robust chat application developed with Stream-Chat-App, offering 
 - **Creating Channels:** Start channels for various topics and interests.        
 - **Group Chats:** Collaborate and communicate in group settings.          
 - **Chat Reactions:** Use emojis to react to messages in real-time.  
-- **Pin Chats:** Pin important chats for quick access. 
+- **Pin Chats:** Pin important chats for quick access.  
  
 ## User Experience
 
