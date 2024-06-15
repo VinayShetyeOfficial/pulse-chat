@@ -5,7 +5,7 @@
 ## Description        
 PulseChat is a robust chat application developed with Stream-Chat-App, offering features  such as Direct Chats, Channels, Group Chats, Chat Reactions, and Pin Chats. It's designed to provide a seamless and interactive co mmunication experience.            
                  
-## Features                        
+## Features                         
 - **Direct Chats:** Engage in private conversations with ease.        
 - **Creating Channels:** Start channels for various topics and interests.         
 - **Group Chats:** Collaborate and communicate in group settings.           
