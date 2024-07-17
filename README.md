@@ -2,7 +2,7 @@
                            
 ![image](https://github.com/VinayShetyeOfficial/PulseChat/assets/100470361/afbbf8a6-fdb6-42f3-b4e5-1f941298ceae)                 
                
-## Description          
+## Description           
 PulseChat is a robust chat application developed with Stream-Chat-App, offering features  such as Direct Chats, Channels, Group Chats, Chat Reactions, and Pin Chats. It's designed to provide a seamless and interactive co mmunication experience.            
                      
 ## Features                           
