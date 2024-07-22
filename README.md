@@ -14,7 +14,7 @@ PulseChat is a robust chat application developed with Stream-Chat-App, offering 
    
 ## User Experience 
   
-PulseChat boasts a user-friendly interface, allowing for intuitive navigation through its many features. The application is also responsive, ensuring a smooth experience across all devices.
+PulseChat boasts a user-friendly interface, allowing for intuitive navigation through its many features. The application is also responsiv e, ensuring a smooth experience across all devices.
 
 ## Development Opportunities
  
