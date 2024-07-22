@@ -12,7 +12,7 @@ PulseChat is a robust chat application developed with Stream-Chat-App, offering 
 - **Chat Reactions:** Use emojis to react to messages in real-time.   
 - **Pin Chats:** Pin important chats for quick access.    
    
-## User Experience  
+## User Experience   
   
 PulseChat boasts a user-friendly interface, allowing for intuitive navigation through its many features. The application is also responsiv e, ensuring a smooth experience across all devices.
 
